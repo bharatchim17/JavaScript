@@ -1,1 +1,2 @@
-# JavaScript
+# JavaScript 
+this is functional programming code...
