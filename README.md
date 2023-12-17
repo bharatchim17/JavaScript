@@ -1,2 +1,4 @@
 # JavaScript 
-this is functional programming code...
+this is functional programming code..
+----------------------------------------------
+bharatchim17
